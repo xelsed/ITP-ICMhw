@@ -4,7 +4,7 @@ Homework Blog for ICM Week4
 Today I have to ask a question but at this very moment I don't have any other then from my conversation with my Dauther, she was talking to me about loops, 
 
 Julia said there are a few kinds of loops and one kind of loop she mentioned was a forever loop. I am not sure if this was taught to her as a concept or its a function.
-Another concept I am having trouble with is the use of AI, I agree that having the AI program for you is bad, however I am struggling for example with the concept of using the AI to lookup and help with understanding how comands work and reflect on Aristial and his opinion of the abacus. I was about to type forever loop p5js into google but now it applies AI to its search. My own rules have been to use AI like documention so for example please show me how ot create a beep using natice comands no libraries and then to rerype the code and edit it.
+Another concept I am having trouble with is the use of AI, I agree that having the AI program for you is bad, however I am struggling for example with the concept of using the AI to lookup and help with understanding how comands work and reflect on Aristial and his opinion of the abacus. I was about to type forever loop p5js into google but now it applies AI to its search. My own rules have been to use AI like documention so for example please show me how ot create a beep using native comands no libraries and then to rerype the code and edit it.
 
 I also miss case statements which I remeber from pascal, and have been fustrated by this P5's crashing without the benfit of ^C I wonder if there is a browser that is more robust then chrome or edge for p5 editor?
 
