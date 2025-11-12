@@ -1,3 +1,10 @@
+# ITP-ICM
+
+I made a cool little app to use facemesh (wathing codetrain) to get the corinates for the right eye, then i with a litle help from AI (and right mouse click an dlooking at the console per codetrin) took the corinates and put them in an image and then create a series of lines of eyes and the nover time by using the mod of the time create random eyes. I wanted to draw a mandlebraute set but that turned out to be a little too much a little two fast.
+
+jeremy
+
+
 # ITP-ICMhw
 Homework Blog for ICM Week4
 
