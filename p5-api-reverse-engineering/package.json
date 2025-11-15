@@ -1,0 +1,35 @@
+{
+  "name": "p5-api-reverse-engineering",
+  "version": "1.0.0",
+  "description": "Reverse engineering toolkit for p5.js Web Editor API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test-upload.js",
+    "test:python": "python scripts/test-upload.py",
+    "test:bash": "bash scripts/test-upload.sh",
+    "example:simple": "node examples/create-simple-sketch.js",
+    "example:batch": "node examples/batch-upload.js"
+  },
+  "keywords": [
+    "p5js",
+    "api",
+    "reverse-engineering",
+    "creative-coding",
+    "education"
+  ],
+  "author": "ITP/NYU",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xelsed/ITP-ICMhw"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
